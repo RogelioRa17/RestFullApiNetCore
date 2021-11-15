@@ -1,0 +1,6 @@
+C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMEdia.Api\obj\Debug\netcoreapp3.1\SocialMEdia.Api.csproj.AssemblyReference.cache
+C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMEdia.Api\obj\Debug\netcoreapp3.1\SocialMEdia.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMEdia.Api\obj\Debug\netcoreapp3.1\SocialMEdia.Api.AssemblyInfoInputs.cache
+C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMEdia.Api\obj\Debug\netcoreapp3.1\SocialMEdia.Api.AssemblyInfo.cs
+C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMEdia.Api\obj\Debug\netcoreapp3.1\SocialMEdia.Api.csproj.CoreCompileInputs.cache
+C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMEdia.Api\obj\Debug\netcoreapp3.1\SocialMEdia.Api.MvcApplicationPartsAssemblyInfo.cache

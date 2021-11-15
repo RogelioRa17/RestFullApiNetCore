@@ -1,10 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using SocialMedia.Domain.Entities;
 
 namespace SocialMedia.Infrastructure.Repositories
 {
     class PostRepository
     {
+        public IEnumerable<Post> GetPosts()
+        {
+
+        }
     }
 }

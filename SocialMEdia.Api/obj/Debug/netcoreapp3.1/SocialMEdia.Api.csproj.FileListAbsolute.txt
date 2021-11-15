@@ -1,6 +1,34 @@
-C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMEdia.Api\obj\Debug\netcoreapp3.1\SocialMEdia.Api.csproj.AssemblyReference.cache
-C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMEdia.Api\obj\Debug\netcoreapp3.1\SocialMEdia.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMEdia.Api\obj\Debug\netcoreapp3.1\SocialMEdia.Api.AssemblyInfoInputs.cache
-C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMEdia.Api\obj\Debug\netcoreapp3.1\SocialMEdia.Api.AssemblyInfo.cs
-C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMEdia.Api\obj\Debug\netcoreapp3.1\SocialMEdia.Api.csproj.CoreCompileInputs.cache
-C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMEdia.Api\obj\Debug\netcoreapp3.1\SocialMEdia.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Rogelio Jinestas/Documents/GitHub/SocialMedia/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.csproj.AssemblyReference.cache
+C:/Users/Rogelio Jinestas/Documents/GitHub/SocialMedia/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Rogelio Jinestas/Documents/GitHub/SocialMedia/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.AssemblyInfoInputs.cache
+C:/Users/Rogelio Jinestas/Documents/GitHub/SocialMedia/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.AssemblyInfo.cs
+C:/Users/Rogelio Jinestas/Documents/GitHub/SocialMedia/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.csproj.CoreCompileInputs.cache
+C:/Users/Rogelio Jinestas/Documents/GitHub/SocialMedia/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.deps.json
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.runtimeconfig.json
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.runtimeconfig.dev.json
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/SocialMEdia.Api.deps.json
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/SocialMEdia.Api.runtimeconfig.json
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/SocialMEdia.Api.runtimeconfig.dev.json
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/SocialMEdia.Api.dll
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/SocialMEdia.Api.pdb
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/SocialMedia.Domain.dll
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.dll
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.pdb
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/bin/Debug/netcoreapp3.1/SocialMedia.Domain.pdb
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.csproj.AssemblyReference.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.AssemblyInfoInputs.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.AssemblyInfo.cs
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.csproj.CoreCompileInputs.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/staticwebassets/SocialMEdia.Api.StaticWebAssets.Manifest.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/staticwebassets/SocialMEdia.Api.StaticWebAssets.xml
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/scopedcss/bundle/SocialMEdia.Api.styles.css
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.RazorTargetAssemblyInfo.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.csproj.CopyComplete
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.dll
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.pdb
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/obj/Debug/netcoreapp3.1/SocialMEdia.Api.genruntimeconfig.cache

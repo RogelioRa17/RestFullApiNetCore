@@ -1,0 +1,10 @@
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Domain/bin/Debug/netcoreapp3.1/SocialMedia.Domain.deps.json
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Domain/bin/Debug/netcoreapp3.1/SocialMedia.Domain.dll
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Domain/bin/Debug/netcoreapp3.1/SocialMedia.Domain.pdb
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Domain/obj/Debug/netcoreapp3.1/SocialMedia.Domain.csproj.AssemblyReference.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Domain/obj/Debug/netcoreapp3.1/SocialMedia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Domain/obj/Debug/netcoreapp3.1/SocialMedia.Domain.AssemblyInfoInputs.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Domain/obj/Debug/netcoreapp3.1/SocialMedia.Domain.AssemblyInfo.cs
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Domain/obj/Debug/netcoreapp3.1/SocialMedia.Domain.csproj.CoreCompileInputs.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Domain/obj/Debug/netcoreapp3.1/SocialMedia.Domain.dll
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Domain/obj/Debug/netcoreapp3.1/SocialMedia.Domain.pdb

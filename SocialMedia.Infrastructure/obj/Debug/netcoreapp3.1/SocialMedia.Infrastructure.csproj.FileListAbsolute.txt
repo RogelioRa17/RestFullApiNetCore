@@ -1,0 +1,16 @@
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.deps.json
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.runtimeconfig.json
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.runtimeconfig.dev.json
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.dll
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.pdb
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Domain.dll
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Domain.pdb
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.csproj.AssemblyReference.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.AssemblyInfo.cs
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.csproj.CopyComplete
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.dll
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.pdb
+/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.genruntimeconfig.cache

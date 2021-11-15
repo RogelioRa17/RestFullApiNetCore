@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "SocialMedia.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SocialMedia.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SocialMedia.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SocialMedia.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SocialMedia.Domain/SocialMedia.Domain.csproj",
+      "msbuildProject": "../SocialMedia.Domain/SocialMedia.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "SocialMedia.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/rogeliojinestasgarcia/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Domain/SocialMedia.Domain.csproj": {
+              "projectPath": "/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.Domain/SocialMedia.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

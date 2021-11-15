@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rogelio Jinestas\\Documents\\GitHub\\SocialMedia\\SocialMedia.UnitTest\\SocialMedia.UnitTest.csproj": {}
+    "/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.UnitTest/SocialMedia.UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rogelio Jinestas\\Documents\\GitHub\\SocialMedia\\SocialMedia.UnitTest\\SocialMedia.UnitTest.csproj": {
+    "/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.UnitTest/SocialMedia.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rogelio Jinestas\\Documents\\GitHub\\SocialMedia\\SocialMedia.UnitTest\\SocialMedia.UnitTest.csproj",
+        "projectUniqueName": "/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.UnitTest/SocialMedia.UnitTest.csproj",
         "projectName": "SocialMedia.UnitTest",
-        "projectPath": "C:\\Users\\Rogelio Jinestas\\Documents\\GitHub\\SocialMedia\\SocialMedia.UnitTest\\SocialMedia.UnitTest.csproj",
-        "packagesPath": "C:\\Users\\Rogelio Jinestas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rogelio Jinestas\\Documents\\GitHub\\SocialMedia\\SocialMedia.UnitTest\\obj\\",
+        "projectPath": "/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.UnitTest/SocialMedia.UnitTest.csproj",
+        "packagesPath": "/Users/rogeliojinestasgarcia/.nuget/packages/",
+        "outputPath": "/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.UnitTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rogelio Jinestas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/rogeliojinestasgarcia/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -76,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

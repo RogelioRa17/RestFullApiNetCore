@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace SocialMedia.Domain.Entities
 {
-    class Post
+    public class Post
     {
         public int PostId { get; set; }
         public int UserId { get; set; }

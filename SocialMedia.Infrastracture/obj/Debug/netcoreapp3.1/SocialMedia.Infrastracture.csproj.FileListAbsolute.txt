@@ -1,5 +1,0 @@
-C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMedia.Infrastracture\obj\Debug\netcoreapp3.1\SocialMedia.Infrastracture.csproj.AssemblyReference.cache
-C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMedia.Infrastracture\obj\Debug\netcoreapp3.1\SocialMedia.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMedia.Infrastracture\obj\Debug\netcoreapp3.1\SocialMedia.Infrastracture.AssemblyInfoInputs.cache
-C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMedia.Infrastracture\obj\Debug\netcoreapp3.1\SocialMedia.Infrastracture.AssemblyInfo.cs
-C:\Users\Rogelio Jinestas\Documents\GitHub\SocialMedia\SocialMedia.Infrastracture\obj\Debug\netcoreapp3.1\SocialMedia.Infrastracture.csproj.CoreCompileInputs.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GnofPIXgTYKW7GjmHRRvATIoVdI+LZ3BFay7S6xXFPGKmpiHma89bo/L8XIzyZvzIXT78bs0oGZml4ZORI4xgg==",
+  "dgSpecHash": "XQXacOnSZEu97juqDQ7s+m/5YGJOStnyw0/Jog0TeADvXJcSrxfCysN5QVmCh/WfTrEZw2ydTEB4jjAuH6q+GA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rogelio Jinestas\\Documents\\GitHub\\SocialMedia\\SocialMEdia.Api\\SocialMEdia.Api.csproj",
+  "projectFilePath": "/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMEdia.Api/SocialMEdia.Api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

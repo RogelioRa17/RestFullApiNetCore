@@ -8,3 +8,9 @@ SocialMedia.Infrastructure/obj/*
 
 SocialMedia.Domain/bin/*
 SocialMedia.Domain/obj/*
+
+SocialMedia.UnitTest/bin/*
+SocialMedia.UnitTest/obj/*
+
+SocialMedia.IntegrationsTest/bin/*
+SocialMedia.IntegrationsTest/obj/*

@@ -1,10 +1,13 @@
-﻿using System;
+﻿using System.Threading.Tasks;
+using System;
 using System.Collections.Generic;
 using System.Text;
+using SocialMedia.Domain.Entities;
 
 namespace SocialMedia.Domain.Interfaces
 {
-    interface IPostRepository
+    public interface IPostRepository
     {
+        Task<IEnumerable<Post>> GetPosts();
     }
 }

@@ -5,7 +5,7 @@ using SocialMedia.Domain.Entities;
 
 namespace SocialMedia.Infrastructure.Repositories
 {
-    class PostRepository
+    public class PostRepository
     {
         public IEnumerable<Post> GetPosts()
         {

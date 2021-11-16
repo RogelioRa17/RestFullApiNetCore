@@ -5917,24 +5917,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/rogeliojinestasgarcia/.nuget/packages/": {}
+    "C:\\Users\\Rogelio Jinestas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.IntegrationsTest/SocialMedia.IntegrationsTest.csproj",
+      "projectUniqueName": "C:\\Users\\Rogelio Jinestas\\Documents\\GitHub\\SocialMedia\\SocialMedia.IntegrationsTest\\SocialMedia.IntegrationsTest.csproj",
       "projectName": "SocialMedia.IntegrationsTest",
-      "projectPath": "/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.IntegrationsTest/SocialMedia.IntegrationsTest.csproj",
-      "packagesPath": "/Users/rogeliojinestasgarcia/.nuget/packages/",
-      "outputPath": "/Users/rogeliojinestasgarcia/Documents/Projects/RestFullApiNetCore/SocialMedia.IntegrationsTest/obj/",
+      "projectPath": "C:\\Users\\Rogelio Jinestas\\Documents\\GitHub\\SocialMedia\\SocialMedia.IntegrationsTest\\SocialMedia.IntegrationsTest.csproj",
+      "packagesPath": "C:\\Users\\Rogelio Jinestas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rogelio Jinestas\\Documents\\GitHub\\SocialMedia\\SocialMedia.IntegrationsTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rogeliojinestasgarcia/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Rogelio Jinestas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5989,7 +5991,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

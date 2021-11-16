@@ -14,7 +14,8 @@ namespace SocialMEdia.Api.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok(null);
+            var posts = new PostRepository().GetPost();
+            return Ok(posts);
         }
     }
 }

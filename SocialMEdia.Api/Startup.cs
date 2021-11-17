@@ -25,6 +25,10 @@ namespace SocialMEdia.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddControllers().AddNewtonsoftJson(options => {
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+            });
+
             services.AddTransient<IPostRepository, PostRepository>();
             services.AddDbContext<RestFullApiContext>(options => {
                 options.UseSqlServer(Configuration.GetConnectionString("SocialMedia"));

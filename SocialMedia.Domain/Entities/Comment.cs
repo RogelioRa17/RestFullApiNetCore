@@ -5,9 +5,8 @@ using System.Collections.Generic;
 
 namespace SocialMedia.Domain.Entities
 {
-    public partial class Comment
+    public partial class Comment: Entity
     {
-        public int CommentId { get; set; }
         public int PostId { get; set; }
         public int UserId { get; set; }
         public string Description { get; set; }

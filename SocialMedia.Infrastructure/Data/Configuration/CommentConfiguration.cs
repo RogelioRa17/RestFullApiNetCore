@@ -7,11 +7,11 @@ namespace SocialMedia.Infrastructure.Data.Configuration
   {
     public void Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Comment> builder)
     {
-        builder.HasKey(e => e.CommentId);
+        builder.HasKey(e => e.Id);
 
         builder.ToTable("Comentario");
 
-        builder.Property(e => e.CommentId)
+        builder.Property(e => e.Id)
             .HasColumnName("IdComentario")
             .ValueGeneratedNever();
 

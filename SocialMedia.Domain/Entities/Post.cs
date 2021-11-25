@@ -1,19 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using SocialMedia.Domain.Interfaces;
 
 #nullable disable
 
 namespace SocialMedia.Domain.Entities
 {
-    public partial class Post
+    public partial class Post:  Entity, IEntity
     {
         public Post()
         {
             Comments = new HashSet<Comment>();
-            this.PostId = 0;
         }
-
-        public int PostId { get; set; }
         public int UserId { get; set; }
         public DateTime Date { get; set; }
         public string Description { get; set; }
